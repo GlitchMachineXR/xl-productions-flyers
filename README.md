@@ -15,3 +15,9 @@ Open the folder for your event, click the file, then Download. Save it to your c
 - [Static](after12-2026-10-24/A12_1024_static.png) (1080x1920 PNG)
 - [Reel](after12-2026-10-24/A12_1024_reel.mp4) (1080x1920, 30 fps, 30 s)
 - [Story](after12-2026-10-24/A12_1024_story.mp4) (1080x1920, 30 fps, 8 s)
+
+## After12 | Friday 10/30/2026
+
+- [Static](after12-2026-10-30/A12_1030_static.png) (1080x1920 PNG)
+- [Reel](after12-2026-10-30/A12_1030_reel.mp4) (1080x1920, 30 fps, 30 s)
+- [Story](after12-2026-10-30/A12_1030_story.mp4) (1080x1920, 30 fps, 7 s)
